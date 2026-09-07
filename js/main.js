@@ -228,13 +228,13 @@ const storiesData = [
   {
     id: 'pokhara',
     title: 'Where the hills touch glass',
-    meta: 'Pokhara · 4,300m · Apr',
+    meta: 'Phewa Lake, Pokhara · 822m · Lakeside',
     img: 'images/don.jpg',
-    alt: 'Terraced green fields and a turquoise glacial lake in the valley',
+    alt: 'Raja Shahi kayaking on the calm mirror waters of Phewa Lake in Pokhara',
     body: `
-      <p>Five oligotrophic glacial lakes cascade down the valley, fed by the massive glaciers. In the calm dawn before the katabatic winds awaken, the emerald and turquoise waters turn to polished mirrors.</p>
-      <p>The mountain range towers at the head of the valley, an 8,000-meter wall of ice and rock reflecting upside down across the glass surface.</p>
-      <p>A yak's bronze bell rang once across the distance, echoing off the moraine wall, and everything fell back into absolute stillness. This is the heart of the high Himalaya.</p>
+      <p>There is an unmatched stillness out on the open waters of Phewa Lake. With paddle held high and the gentle rhythm of water beneath the boat, gliding away from the bustling shores of Lakeside brings an immediate sense of pure freedom and calm.</p>
+      <p>The lush green forested ridge of Raniban slopes directly into the lake, where the tranquil surface acts as a polished mirror, perfectly capturing the green hills, drifting clouds, and the blue Pokhara sky—where the hills truly touch glass.</p>
+      <p>Dipping the oars into the ripples with laughter and breeze in your face, this quiet corner of Pokhara is where time slows down and memories are etched for a lifetime.</p>
     `
   }
 ];
