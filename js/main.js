@@ -215,14 +215,14 @@ const storiesData = [
   },
   {
     id: 'kathmandu',
-    title: 'Courtyards that remember',
-    meta: 'Kathmandu · 1,400m · Mar',
+    title: 'A constellation of valley lights',
+    meta: 'Whitehouse Resort, Kathmandu · 1,850m · Night Ride',
     img: 'images/haha.jpg',
-    alt: 'Narrow stone alley in Kathmandu old city strung with prayer flags',
+    alt: 'Raja Shahi on his scrambler motorcycle overlooking the night lights of Kathmandu from Whitehouse Resort',
     body: `
-      <p>In the labyrinthine bahals of Patan and Kathmandu, history is not preserved in museum vitrines — it is lived on doorsteps and stone pavement washed by morning water.</p>
-      <p>I walked with a mechanical 35mm camera, lingering where sunlight sliced through carved lattice windows. The aroma of burning juniper, spiced black tea, and wet terracotta filled the cool alleys.</p>
-      <p>An artisan sat beneath a wood carved lintel, chiseling a brass butter lamp with hands that knew the curve by muscle memory. Here, time feels circular rather than linear.</p>
+      <p>There is a special freedom in taking the bike up through the quiet, winding pine forest road toward Whitehouse Resort as darkness blankets the valley. With every hairpin turn, the noise, smoke, and rush of Kathmandu fade into cool mountain air.</p>
+      <p>Killing the engine at the edge of the hill, the only sound left is the quiet tick of cooling engine fins and the gentle night breeze. Below, the entire Kathmandu basin unfolds in a spectacular panorama—a sprawling galaxy of golden embers and glittering city lights stretching to the horizon.</p>
+      <p>Sitting on the motorcycle seat looking out over the illuminated bowl of the capital, the city feels peaceful, vast, and full of stories. These quiet midnight ridge rides are where thoughts settle and perspective returns.</p>
     `
   },
   {
