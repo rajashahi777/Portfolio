@@ -227,7 +227,7 @@ const storiesData = [
   },
   {
     id: 'pokhara',
-    title: 'Where the hills touch glass',
+    title: "Drifting through Phewa's calm",
     meta: 'Phewa Lake, Pokhara · 822m · Lakeside',
     img: 'images/don.jpg',
     alt: 'Raja Shahi kayaking on the calm mirror waters of Phewa Lake in Pokhara',
