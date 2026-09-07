@@ -202,14 +202,15 @@ function initLightbox() {
    ========================================================================== */
 const storiesData = [
   {
-    id: 'annapurna',
-    title: 'Where the clouds touch the ridges',
-    meta: 'Annapurna · 5,416m · Feb',
+    id: 'manungkot',
+    title: 'Above the sea of morning clouds',
+    meta: 'Manungkot, Tanahun · 1,080m · Sunrise',
     img: 'images/la.jpg',
-    alt: 'Dawn light over a snow-dusted Himalayan ridge with prayer flags',
+    alt: 'Raja Shahi standing above the morning sea of clouds at Manungkot, Tanahun',
     body: `
-      <p>At 4:30 AM, the first pale blue light began to climb across the eastern peaks of the Annapurna massif. Prayer flags tied to stone cairns snapped in the thin air, their colors bleached by months of fierce ultraviolet sun.</p>
-      <p>Standing on the saddle of Thorong La, every breath is deliberate. The vast silence of the Trans-Himalaya stretches north toward Mustang — ancient, austere, and profoundly humbling.</p>
+      <p>Perched high above Damauli in Tanahun, Manungkot offers one of Nepal’s most dramatic dawn views. Long before the sun crosses the horizon, a dense, swirling ocean of white clouds rolls through the Madi and Seti river valleys below.</p>
+      <p>Standing on the grassy cliff edge, the cold mountain breeze brushes past as the morning light turns the mist from slate gray into soft gold. You are literally standing above the sky, while the distant snowcaps of Annapurna, Manaslu, and Dhaulagiri wake up on the northern ridge.</p>
+      <p>It is a quiet, breathtaking reminder that magic doesn’t always require climbing 5,000 meters—sometimes all it takes is greeting the sunrise above the clouds in the heart of the hills.</p>
     `
   },
   {
