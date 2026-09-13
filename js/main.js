@@ -116,14 +116,14 @@ const photoMoments = [
     caption: 'Valley lights glittering like embers under the midnight sky.'
   },
   {
-    src: 'images/huhu.jpg',
-    alt: 'Motorcycle parked at night overlooking sparkling valley city lights',
-    caption: 'Late night ride overlooking the shimmering city horizon.'
+    src: 'images/bench-mist.jpg',
+    alt: 'Raja Shahi resting on a viewpoint bench gazing into the sea of morning mist',
+    caption: 'Lost in quiet stillness—watching the sea of mist drift over the ridges.'
   },
   {
-    src: 'images/raja.jpg',
-    alt: 'Standing atop the summit ridge with arms spread wide into the misty clouds',
-    caption: '"Thug life" T-shirt standing the fewa lake side.'
+    src: 'images/pallu.jpg',
+    alt: 'Raja Shahi standing at the edge of Fewa Lake at dusk in Pokhara',
+    caption: '"Thug life" lakeside dusk reflection at Fewa Lake, Pokhara.'
   }
 ];
 
