@@ -123,7 +123,7 @@ const photoMoments = [
   {
     src: 'images/raja.jpg',
     alt: 'Standing atop the summit ridge with arms spread wide into the misty clouds',
-    caption: 'Embracing the vast mist and endless mountain breeze.'
+    caption: '"Thug life" T-shirt standing the fewa lake side.'
   }
 ];
 
@@ -253,8 +253,8 @@ function initStoryModals() {
   function openStoryModal(storyId) {
     const story = storiesData.find(
       s => s.id.toLowerCase() === (storyId || '').toLowerCase() ||
-           (storyId.toLowerCase() === 'gokyo' && s.id.toLowerCase() === 'pokhara') ||
-           (storyId.toLowerCase() === 'pokhara' && s.id.toLowerCase() === 'gokyo')
+        (storyId.toLowerCase() === 'gokyo' && s.id.toLowerCase() === 'pokhara') ||
+        (storyId.toLowerCase() === 'pokhara' && s.id.toLowerCase() === 'gokyo')
     );
     if (!story) return;
 
